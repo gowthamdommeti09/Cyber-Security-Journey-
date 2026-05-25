@@ -1,0 +1,20 @@
+Linux Day 1 
+
+Commands Learned 
+1. pwd
+2. ls
+3. cd 
+4. chmod
+5. grep 
+6. find 
+
+Concpets Learned 
+1. Linux basics 
+2. Permissions 
+3. Hidden Files 
+4. Root Directory 
+5. IP address
+
+Linux gives direct control over systems and is heavily used in cybersecurity
+
+Linux File Permissions
