@@ -1,1 +1,12 @@
 Notes Related to the Cyber Security:
+
+Day - 4:
+
+what is network?
+when one or more devices communicate with each other we call it as a network.
+
+what is the IP address?
+See in the above we have discussed that devices communicate with each other - but how does one device know the other device - it is done using the IP address
+So the Ip address identifies a device in a network it means each and every device in the network is assigned with a IP address - so it makes easy for the device to identify the devices which they want to communicate.
+
+
